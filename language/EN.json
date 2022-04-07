@@ -79,7 +79,7 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Rudhra",
+            "RESTART_DESC": "Restart inrl bot",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown Bot",
             "SHUTDOWN_MSG": "```Appo Seri Tata📴```",
@@ -153,7 +153,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! Rudhra ini varathilla 🥲```",
+            "KICKME": "```Bye bye! inrl bot ini varathilla 🥲```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -194,22 +194,22 @@
             "ISONG_DESC": "Uploads the song you wrote for ios users.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "✮⃝🎸ƦUÐҤƦλ ÐØ₩₦ŁØÐł₦G ¥ØUƦ $Ø₦G✮⃝🎧",
+            "DOWNLOADING_SONG": "✮⃝🎸inrl bot ÐØ₩₦ŁØÐł₦G ¥ØUƦ $Ø₦G✮⃝🎧",
             "NAMEY": "NAME",
             "URL": "LINK",
             "THUMB": "THUMB",
             "RATING": "RATING",
-            "UPLOADING_SONG": "✮⃝🎸ƦUÐҤƦλ UPŁØλÐł₦G ¥ØUƦ $Ø₦G✮⃝🎧",
+            "UPLOADING_SONG": "✮⃝🎸inrl bot UPŁØλÐł₦G ¥ØUƦ $Ø₦G✮⃝🎧",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtube.com/watch?v=HD1-MX9q6fY```",
-            "DOWNLOADING_VIDEO": "*✮⃝🎞️rυdнra downloadιng yoυr vιdeo✮⃝🎥*",
-            "UPLOADING_VIDEO": "*✮⃝🎞️rυdнra υploadιng yoυr vιdeo✮⃝🎥*",
-            "LOADING": "*✮⃝🎞️rυdнra downloadιng yoυr vιdeo✮⃝🎥*",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtube.com/shorts/P3G6yxqmNuo```",
+            "DOWNLOADING_VIDEO": "*✮⃝🎞️inrl bot downloadιng yoυr vιdeo✮⃝🎥*",
+            "UPLOADING_VIDEO": "*✮⃝🎞️inrl bot υploadιng yoυr vιdeo✮⃝🎥*",
+            "LOADING": "*✮⃝🎞️inrl bot downloadιng yoυr vιdeo✮⃝🎥*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "*rυdнra 🔎 ѕearcнιng...*",
+            "SEARCHING": "*inrl bot 🔎 ѕearcнιng...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
@@ -239,14 +239,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*ƦUÐҤƦλ ł$ ₡ØMPŁE₸EŁ¥ UP-₸Ø-Ðλ₸E!*",
-            "NEW_UPDATE": "*₦E₩ UPÐλ₸E λVλłŁλBŁE ₣ØƦ ƦUÐҤƦλ!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP*\n\n*https://youtube.com/c/PrinceRudh*\n\nChanges:\n```",
+            "UPDATE": "*inrl bot ł$ ₡ØMPŁE₸EŁ¥ UP-₸Ø-Ðλ₸E!*",
+            "NEW_UPDATE": "*₦E₩ UPÐλ₸E λVλłŁλBŁE ₣ØƦ inrl bot!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP*\n\n*https://youtube.com/c/inrl bot*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```ƦUÐҤƦλ UPÐλ₸E ₡ҤE¥¥λ₸₸E...⏳```",
+            "UPDATING": "```inrl bot UPÐλ₸E ₡ҤE¥¥λ₸₸E...⏳```",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*ƦUÐҤƦλ UPÐλ₸E ƙλZҤł₦JU ✅*",
-            "UPDATED_LOCAL": "*✅ƦUÐҤƦλ UPÐλ₸EÐ!*",
-            "AFTER_UPDATE": "*ƦUÐҤƦλ ƦE$₸λƦ₸ł₦G*",
+            "UPDATED": "*inrl bot UPÐλ₸E ƙλZҤł₦JU ✅*",
+            "UPDATED_LOCAL": "*✅inrl bot UPÐλ₸EÐ!*",
+            "AFTER_UPDATE": "*inrl bot ƦE$₸λƦ₸ł₦G*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -280,7 +280,7 @@
             "APK_MOD": "It sends some special mod apks",
             "CARBON_DESC": "It sends carbon picture",
             "TEMP": "Temperature",
-            "BOT_DESC": "Chat with Rudhra.\n Use .molu <message>",
+            "BOT_DESC": "Chat with inrl bot.\n Use .molu <message>",
             "BOT": ":",
             "DEVICE": "It shows the details of device",
             "DESC": "Description",
@@ -303,7 +303,7 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "Rudhra Converts video to sound.",
+            "MP4TOAUDİO_DESC": "inrl bot Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
             "MP4TOAUDİO": "```Rυԃԋɾα Cσɳʋҽɾƚιɳɠ Vιԃҽσ ƚσ Aυԃισ..```",
             "ANİM_STİCK": "Converts animated stickers to video.",
@@ -399,9 +399,9 @@
             "MUTE_OPEN": "```The group chat has unmuted!```"
         },
         "unvoice": {
-            "UV_DESC": "Rudhra Converts audio to sound recording.",
+            "UV_DESC": "inrl bot Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to the Audio File!*",
-            "UV_PROC": "```Rudhra Converting to Sound Recording..```"
+            "UV_PROC": "```inrl bot Converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -485,7 +485,7 @@
             "NOT_FOUND":"User not found: "
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github PrinceRudh",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github inrl bot",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
